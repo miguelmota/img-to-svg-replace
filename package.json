@@ -2,7 +2,6 @@
   "name": "img-to-svg-replace",
   "version": "0.0.1",
   "description": "Replace image tags containing SVG source urls with the SVG content.",
-,
   "main": "index.js",
   "directories": {
     "test": "test"

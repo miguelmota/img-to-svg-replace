@@ -1,0 +1,39 @@
+{
+  "name": "img-to-svg-replace",
+  "version": "0.0.1",
+  "description": "Replace image tags containing SVG source urls with the SVG content.",
+,
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miguelmota/img-to-svg-replace"
+  },
+  "keywords": [
+    "image",
+    "svg",
+    "replace",
+    "xhr"
+  ],
+  "author": {
+    "name": "Miguel Mota",
+    "email": "hello@miguelmota.com",
+    "url": "https://miguelmota.com"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/miguelmota/img-to-svg-replace/blob/master/LICENSE.md"
+  },
+  "bugs": {
+    "url": "https://github.com/miguelmota/img-to-svg-replace/issues"
+  },
+  "homepage": "https://github.com/miguelmota/img-to-svg-replace",
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
